@@ -1,0 +1,7 @@
+{
+  "name": "ActivityWatch status",
+  "description": "Shows the total time spent on the computer",
+  "uuid": "activitywatch-status@dpiotrkowski.github.io",
+  "shell-version": ["45", "46", "47"],
+  "url": "https://github.com/dpiotrkowski/activitywatch-status-gnome-shell"
+}
